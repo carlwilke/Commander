@@ -58,5 +58,7 @@ D:\RepoLearn\ASPAPI\Commander\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreap
 D:\RepoLearn\ASPAPI\Commander\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
 D:\RepoLearn\ASPAPI\Commander\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
 D:\RepoLearn\ASPAPI\Commander\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\RepoLearn\ASPAPI\Commander\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\RepoLearn\ASPAPI\Commander\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\RepoLearn\ASPAPI\Commander\obj\Debug\netcoreapp3.1\Commander.csproj.CoreCompileInputs.cache
 D:\RepoLearn\ASPAPI\Commander\obj\Debug\netcoreapp3.1\Commander.MvcApplicationPartsAssemblyInfo.cache
